@@ -29,6 +29,7 @@ public class StringOp {
     s1=s3.toUpperCase();
     
     System.out.println("caps of s1="+s1);
+    System.out.println("im shashank");
     
     sc.close();
 	}
