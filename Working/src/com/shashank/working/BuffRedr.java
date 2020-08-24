@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 
 public class BuffRedr {
 
-	public static void main(String[] args) throws IOException {
+	public static void main(String[] args)  throws IOException {
 		
 		
 		System.out.println("enter the numb");
